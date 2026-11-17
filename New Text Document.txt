@@ -1,0 +1,14 @@
+First open the project in VS Code and run the frontend:
+
+npm run dev
+
+
+Then open another VS Code terminal/tab for the backend and run:
+
+
+.\venv\Scripts\Activate.ps1
+python manage.py runserver
+
+
+admin:- swaphub@gmail.com
+admin password:dell9090.
